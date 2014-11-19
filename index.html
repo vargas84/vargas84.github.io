@@ -19,12 +19,23 @@ layout: default
           </div>
           <div class="post-list-item">
             <span class="post-meta">live_at:</span>
+            {% if post.link %}
+              <a class="post-link-small" href="{{ post.link }}">{{ post.link_name }}</a>
+            {% else %}
+              <p class="post-item-desc">n/a</p>
+            {% endif %}
           </div>
           <div class="post-list-item">
             <span class="post-meta">role:</span>
+            <p class="post-item-desc">{{ post.role }}</p>
           </div>
           <div class="post-list-item">
             <span class="post-meta">context:</span>
+            {% if post.context_link %}
+              <a class="post-link-small" href="{{ post.context_link }}">{{ post.context }}</a>
+            {% else %}
+              <p class="post-item-desc">{{ post.context }}</p>
+            {% endif %}
           </div>
         </li>
       {% endfor %}
