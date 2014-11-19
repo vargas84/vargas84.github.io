@@ -23,8 +23,14 @@
       padding: ($spacing-unit / 2) 0;
     }
 
-    .post-list-name { width: 40%; }
-    .post-list-item { width: 18%; margin-left: 2%; }
+    .post-stack {
+      width: 100%;
+      border: none;
+      padding: 0 0 5px;
+    }
+
+    .post-list-name { width:  40%; }
+    .post-list-item { width:  18%; margin-left:   2%; }
   }
 
   .post-meta {

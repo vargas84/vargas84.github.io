@@ -37,6 +37,9 @@ layout: default
               <p class="post-item-desc">{{ post.context }}</p>
             {% endif %}
           </div>
+          <div class="post-stack post-meta">
+            {{ post.stack | join: ', ' }}
+          </div>
         </li>
       {% endfor %}
     </ul>

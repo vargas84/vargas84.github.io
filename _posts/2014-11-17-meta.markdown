@@ -5,6 +5,7 @@ link: "/"
 link_name: "/"
 role: "Owner"
 context: "Side Project"
+stack: ["Jekyll"]
 date:   2014-11-17 16:10:15
 categories: Project
 ---
