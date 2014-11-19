@@ -33,6 +33,10 @@
     .post-list-item { width:  18%; margin-left:   2%; }
   }
 
+  .fa {
+    font-size: $base-font-size * 1.125;
+  }
+
   .post-meta {
     font-size: $small-font-size;
     color: $grey-color;

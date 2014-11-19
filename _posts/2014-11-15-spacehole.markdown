@@ -3,10 +3,11 @@ layout:     post
 link: "http://spacehole.meteor.com"
 link_name: "spacehole.meteor.com"
 role: "Team of 4"
-context: "Hackathon"
+context: "Hackathon @TownHack"
 context_link: "http://townhack.co"
 date:   2014-11-15 16:10:15
 categories: Project
+github: 'https://github.com/pnguyen1097/spaceworm'
 stack: ["MeteorJS", "PhysicsJS (HTML5 canvas, PixiJS)"]
 title:      "Spacehole HTML5 Game"
 ---

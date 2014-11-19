@@ -42,6 +42,9 @@ layout: default
             {% endif %}
           </div>
           <div class="post-stack post-meta">
+            {% if post.github %}
+            <a href="{{ post.github }}"><i class="fa fa-github"></i></a>
+            {% endif %}
             {{ post.stack | join: ', ' }}
           </div>
         </li>

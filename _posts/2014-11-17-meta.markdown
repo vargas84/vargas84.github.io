@@ -5,6 +5,7 @@ link: "/"
 link_name: "/"
 role: "Owner"
 context: "Side Project"
+github: "https://github.com/vargas84/vargas84.github.io"
 stack: ["Jekyll"]
 date:   2014-11-17 16:10:15
 categories: Project
