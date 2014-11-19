@@ -14,7 +14,11 @@ layout: default
           <div class="post-list-name">
             <span class="post-meta">project_name:</span>
             <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              {% if post.follow %}
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              {% else %}
+                <p class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</p>
+              {% endif %}
             </h2>
           </div>
           <div class="post-list-item">
