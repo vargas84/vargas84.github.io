@@ -1,0 +1,13 @@
+---
+layout:     post
+link: "http://skana.herokuapp.com"
+link_name: "skana.herokuapp.com"
+role: "Team of 3"
+context: "Hackathon @OH/IO"
+context_link: "https://www.ohiohackathon.org/"
+date:   2014-11-9 16:10:15
+categories: Project
+github: "https://github.com/dschlitt/Skana"
+stack: ["Rails", "WebSockets", "Bootstrap", "SASS", "Fully Responsive", "Heroku"]
+title: "Skana"
+---

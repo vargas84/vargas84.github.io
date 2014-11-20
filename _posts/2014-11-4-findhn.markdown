@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "FindHN"
+link:  "https://findhn.firebaseapp.com"
+link_name:  "findhn.firebaseapp.com"
+role: "Owner"
+context: "Side Project"
+stack: ["Firebase", "AngularJS"]
+date:   2014-11-4 16:10:15
+categories: Project
+---
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "[private]"
+role: "Full-stack Dev"
+context: "Work @Taivara"
+context_link: "http://www.taivara.com"
+stack: ["AngularJS", "Bootstrap", "SASS", "RESTful Rails API", "Rspec", "Git"]
+date:   2014-11-11 16:10:15
+categories: Project
+---
+

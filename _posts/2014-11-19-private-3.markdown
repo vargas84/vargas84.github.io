@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "[private]"
+role: "Back-end Dev"
+context: "Work @Taivara"
+context_link: "http://www.taivara.com"
+stack: ["Replatform: Laravel to Rails", "RESTful API", "Rspec", "Git"]
+date:   2014-11-19 16:10:15
+categories: Project
+---
+

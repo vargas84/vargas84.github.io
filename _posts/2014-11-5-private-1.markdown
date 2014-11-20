@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "[private]"
+role: "Full-stack Dev"
+context: "Work @Taivara"
+context_link: "http://www.taivara.com"
+stack: ["Rails", "HTML/CSS", "BackboneJS", "Design", "Git"]
+date:   2014-11-5 16:10:15
+categories: Project
+---
+
