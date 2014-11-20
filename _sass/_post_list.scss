@@ -14,7 +14,7 @@
   > li {
     float: left;
     width: 97%;
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit / 2;
     border-bottom: 1px solid white;
     @extend %clearfix;
 

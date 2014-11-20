@@ -3,6 +3,9 @@
   <div class="wrapper-full">
 
     <a class="site-title" href="{{ site.baseurl }}/">AV</a>
+    {% if page.url == "/index.html" %}
+      <span class="site-subtitle">:Projects</span>
+    {% endif %}
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
