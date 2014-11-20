@@ -4,8 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello! I am a(n):
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+- Student @OSU
+- Full stack dev [@Taivara](http://www.taivara.com)
+- Obscenely proud father @AllTimes
+- Hacker @Heart
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Through working with engineer's smarter than I, I've come to believe that the
+following two traits make good developers great: thoughtfulness and confidence.
+I am by no means a shining embodiment of either; I do, however, deliberately
+work towards each everyday.
+
+Currently seeking a summer internship or full-time postition in
+software development on the web.

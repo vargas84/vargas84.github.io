@@ -40,7 +40,12 @@ ul, ol, dl, figure,
 /**
  * Images
  */
+.image-wrapper {
+  text-align: center;
+}
+
 img {
+    height: 350px;
     max-width: 100%;
     vertical-align: middle;
 }
