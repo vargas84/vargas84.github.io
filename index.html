@@ -10,9 +10,10 @@ layout: default
 
     <ul class="post-list">
       {% for post in site.posts %}
+        <div class="post-mdash"><h2>&mdash;</h2></div>
         <li>
           <div class="post-list-name">
-            <span class="post-meta">project_name:</span>
+            <span class="post-meta toggle-text">project_name:</span>
             <h2>
               {% if post.follow %}
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -21,7 +22,7 @@ layout: default
               {% endif %}
             </h2>
           </div>
-          <div class="post-list-item">
+          <div class="post-list-item toggle-text">
             <span class="post-meta">live_at:</span>
             {% if post.link %}
               <a class="post-link-small" href="{{ post.link }}">{{ post.link_name }}</a>
@@ -29,11 +30,11 @@ layout: default
               <p class="post-item-desc">n/a</p>
             {% endif %}
           </div>
-          <div class="post-list-item">
+          <div class="post-list-item toggle-text">
             <span class="post-meta">role:</span>
             <p class="post-item-desc">{{ post.role }}</p>
           </div>
-          <div class="post-list-item">
+          <div class="post-list-item toggle-text">
             <span class="post-meta">context:</span>
             {% if post.context_link %}
               <a class="post-link-small" href="{{ post.context_link }}">{{ post.context }}</a>
@@ -41,7 +42,7 @@ layout: default
               <p class="post-item-desc">{{ post.context }}</p>
             {% endif %}
           </div>
-          <div class="post-stack post-meta">
+          <div class="post-stack post-meta toggle-text">
             {% if post.github %}
             <a href="{{ post.github }}"><i class="fa fa-github"></i></a>
             {% endif %}
