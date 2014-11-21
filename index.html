@@ -13,13 +13,16 @@ layout: default
           <div class="post-list-name">
             <span class="post-meta toggle-text">project_name:</span>
             <h2>
-              {% if post.github %}
-                <a href="{{ post.github }}"><i class="fa fa-github"></i></a>
-              {% endif %}
               {% if post.follow %}
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
               {% else %}
                 <p class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</p>
+              {% endif %}
+              {% if post.github %}
+                <a href="{{ post.github }}"><i class="fa fa-github"></i></a>
+              {% endif %}
+              {% if post.link %}
+                <a href="{{ post.link }}"><i class="fa fa-link"></i></a>
               {% endif %}
             </h2>
           </div>
