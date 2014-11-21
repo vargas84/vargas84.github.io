@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[private]"
+title:  "[project name private]"
 role: "Full-stack Dev"
 context: "Work @Taivara"
 context_link: "http://www.taivara.com"

@@ -13,6 +13,9 @@ layout: default
           <div class="post-list-name">
             <span class="post-meta toggle-text">project_name:</span>
             <h2>
+              {% if post.github %}
+                <a href="{{ post.github }}"><i class="fa fa-github"></i></a>
+              {% endif %}
               {% if post.follow %}
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
               {% else %}
@@ -41,9 +44,7 @@ layout: default
             {% endif %}
           </div>
           <div class="post-stack post-meta toggle-text">
-            {% if post.github %}
-            <a href="{{ post.github }}"><i class="fa fa-github"></i></a>
-            {% endif %}
+            <span class="emph">Technologies</span>
             {{ post.stack | join: ', ' }}
           </div>
         </li>
