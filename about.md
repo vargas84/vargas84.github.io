@@ -11,7 +11,7 @@ Hello! I am a(n):
 - Obscenely proud father @AllTimes
 - Hacker @Heart
 
-Through working with engineer's smarter than I, I've come to believe that the
+Through working with engineers smarter than I, I've come to believe that the
 following two traits make good developers great: thoughtfulness and confidence.
 I am by no means a shining embodiment of either; I do, however, deliberately
 work towards each everyday.
