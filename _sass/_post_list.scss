@@ -88,10 +88,10 @@
   }
 
   .emph {
+    font-size: $small-font-size * .85;
     border-radius: 2px;
-    font-size: $small-font-size * .785;
-    background-color: $grey-color-dark;
-    padding: 2px 7px;
+    background-color: $brand-color;
+    padding: 3px 6px;
     color: white;
   }
 
