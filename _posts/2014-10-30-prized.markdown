@@ -1,0 +1,9 @@
+---
+layout:     post
+role: "Team of 3"
+context: "Intern @Prized"
+date:   2014-10-30 16:10:15
+categories: Project
+stack: ["PHP", "jQuery", "Google Charts API", "Basic Apache"]
+title: "Prized.mobi"
+---
