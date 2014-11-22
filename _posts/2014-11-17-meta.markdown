@@ -3,10 +3,10 @@ layout: post
 title:  "Meta: Personal Website"
 link: "/"
 link_name: "/"
-role: "Owner"
+description: Personal blog / portfolio.
 context: "Side Project"
 github: "https://github.com/vargas84/vargas84.github.io"
-stack: ["Jekyll"]
+stack: ["Jekyll", "SASS", "Git"]
 date:   2014-11-17 16:10:15
 categories: Project
 ---

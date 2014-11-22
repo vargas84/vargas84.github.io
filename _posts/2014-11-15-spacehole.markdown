@@ -2,14 +2,14 @@
 layout:     post
 link: "http://spacehole.meteor.com"
 link_name: "spacehole.meteor.com"
-role: "Team of 4"
+description: "HTML5 spaceship game."
 context: "Hackathon @TownHack"
 context_link: "http://townhack.co"
 date:   2014-11-15 16:10:15
 categories: Project
 github: 'https://github.com/pnguyen1097/spaceworm'
 stack: ["MeteorJS", "PhysicsJS (HTML5 canvas, PixiJS)"]
-title:      "Spacehole HTML5 Game"
+title:      "Spacehole"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

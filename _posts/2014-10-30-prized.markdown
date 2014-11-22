@@ -1,6 +1,6 @@
 ---
 layout:     post
-role: "Team of 3"
+description: "Client portal and dashboard."
 context: "Intern @Prized"
 date:   2014-10-30 16:10:15
 categories: Project

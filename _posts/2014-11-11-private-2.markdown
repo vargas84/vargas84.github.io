@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[project name private]"
-role: "Full-stack Dev"
+description: Backend services for ios and web client.
 context: "Work @Taivara"
 context_link: "http://www.taivara.com"
 stack: ["AngularJS", "Bootstrap", "SASS", "RESTful Rails API", "Rspec", "Git"]

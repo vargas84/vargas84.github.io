@@ -2,7 +2,7 @@
 layout:     post
 link: "http://skana.herokuapp.com"
 link_name: "skana.herokuapp.com"
-role: "Team of 3"
+description: "Rail application to form groups and chat."
 context: "Hackathon @OH/IO"
 context_link: "https://www.ohiohackathon.org/"
 date:   2014-11-9 16:10:15
